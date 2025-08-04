@@ -4,13 +4,11 @@
 <h1 align="center">Hi 👋, I'm Aung Nyein Chan</h1>
 <h3 align="center">Web Dev</h3>
 
-- 🔭 I’m currently working on **$$$**
+
 
 - 🌱 I’m currently learning **NEXT JS**
 
 - 👯 I’m looking to collaborate on **$$$**
-
-- 🤝 I’m looking for help with **&&&**
 
 - 📫 How to reach me **mr.loki.dev@gmail.com**
 
