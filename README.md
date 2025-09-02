@@ -14,6 +14,16 @@
 
 - ⚡ Fun fact **Happy Coding!**
 
+- 
+## 🧠 My Favorite Stack
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/chan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="chan" height="30" width="40" /></a>
