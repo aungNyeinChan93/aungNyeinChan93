@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **NEXT JS**
+- 🌱 I’m currently learning **C# .net**
 
 - 👯 I’m looking to collaborate on **$$$**
 
